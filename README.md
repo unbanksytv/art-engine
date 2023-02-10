@@ -1,3 +1,7 @@
+sudo apt-get install g++
+sudo apt-get install -y build-essential python
+npm install node-pre-gyp
+
 # Art Engine
 
 The HashLips Lab's Art Engine 2 is currently in its alpha phase and is actively
